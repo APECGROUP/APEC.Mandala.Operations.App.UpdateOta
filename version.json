@@ -1,13 +1,13 @@
 {
   "android": {
     "minVersion": "1.0.0",
-    "otaVersion": "1.5.0",
+    "otaVersion": "1.0.1",
     "maxVersion": "2.0.0",
     "bundlePath": "output/index.android.bundle"
   },
   "ios": {
     "minVersion": "1.0.0",
-    "otaVersion": "1.5.0",
+    "otaVersion": "1.0.1",
     "maxVersion": "2.0.0",
     "bundlePath": "output/main.jsbundle"
   }
